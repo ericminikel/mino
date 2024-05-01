@@ -1,0 +1,13 @@
+query_type	drug	n_patients
+wells	well visit control	5290
+inpt	minocycline	44
+inpt	azithromycin	35
+inpt	doxycycline	10
+inpt	clindamycin	6
+derms	clindamycin	3389
+derms	doxycycline	2054
+derms	isotretinoin	623
+derms	minocycline	373
+derms	azithromycin	219
+derms	erythromycin	35
+derms	other/unknown	2

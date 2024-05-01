@@ -1,0 +1,114 @@
+subject_id	sex	age_bin	drug	nfl
+0058	F	30-34	well visit control	15.3
+006F	M	25-29	well visit control	11.2
+00B8	M	75-79	well visit control	54.5
+00FC	F	45-49	well visit control	32.1
+0134	M	65-69	well visit control	28
+018D	F	20-24	well visit control	21.9
+0267	M	30-34	well visit control	16.1
+02A1	M	65-69	well visit control	41.8
+03E4	F	70-74	doxycycline	41
+0404	F	55-59	well visit control	27.1
+04BB	F	65-69	well visit control	29.3
+052D	F	45-49	clindamycin	32.2
+05DA	F	25-29	clindamycin	29.9
+06C8	F	35-39	clindamycin	20.3
+0853	M	30-34	well visit control	19.1
+0A1B	M	25-29	clindamycin	23.8
+0AD0	M	55-59	well visit control	70.1
+0AEC	F	20-24	well visit control	17.3
+0B90	F	25-29	well visit control	28.4
+0BB7	F	45-49	well visit control	25.3
+0E01	M	25-29	clindamycin	21.2
+0F65	M	65-69	well visit control	27.6
+0FAD	M	≥80	well visit control	51.6
+0FD5	F	35-39	clindamycin	29.8
+1012	F	30-34	clindamycin	13.5
+109D	F	60-64	well visit control	19.4
+112B	M	30-34	clindamycin	19.4
+119F	F	35-39	clindamycin	22
+12B8	M	50-54	well visit control	52.2
+12C2	F	25-29	clindamycin	23.2
+12CF	F	35-39	well visit control	14.2
+12E8	F	25-29	clindamycin	9.65
+1303	M	25-29	doxycycline	21.3
+133E	F	35-39	doxycycline	18.5
+1364	F	30-34	isotretinoin	12.4
+13BD	F	75-79	well visit control	59.6
+13D1	F	35-39	well visit control	24.8
+1422	F	55-59	clindamycin	32.4
+1438	F	35-39	well visit control	5.4
+14D9	F	30-34	well visit control	57.4
+14F4	F	25-29	well visit control	21.6
+1675	F	25-29	clindamycin	21.3
+17BC	F	55-59	doxycycline	37.7
+17C2	F	70-74	well visit control	8.97
+17C6	F	25-29	well visit control	15.8
+181D	F	55-59	well visit control	24.7
+193B	M	20-24	isotretinoin	20.8
+193D	M	30-34	doxycycline	11.7
+1956	M	45-49	well visit control	31.2
+199D	F	70-74	well visit control	32.8
+1B6B	M	40-44	well visit control	20.4
+1BD1	F	60-64	doxycycline	53.5
+1BD4	F	25-29	isotretinoin	35.5
+1C27	M	65-69	well visit control	45.4
+1C2E	F	20-24	well visit control	15.7
+1D0F	F	55-59	well visit control	20.9
+1D3D	F	20-24	clindamycin	11.3
+1DA4	F	30-34	well visit control	10.7
+1ECC	M	75-79	well visit control	70.7
+1F1E	M	<20	isotretinoin	15.9
+1FCA	F	25-29	clindamycin	8.57
+2042	F	55-59	well visit control	27.3
+205E	F	≥80	well visit control	153
+2060	F	70-74	well visit control	25.3
+2061	F	35-39	clindamycin	45.5
+209B	F	70-74	doxycycline	24.5
+2133	F	35-39	clindamycin	26.1
+216C	F	20-24	clindamycin	24.6
+22A7	F	60-64	doxycycline	55.7
+22D5	F	70-74	well visit control	5.4
+22EA	F	25-29	well visit control	20
+2315	M	25-29	clindamycin	25.5
+2316	F	50-54	doxycycline	23.5
+2327	F	55-59	well visit control	22.7
+2368	M	55-59	well visit control	37.6
+239D	F	30-34	doxycycline	17
+2426	F	55-59	well visit control	31.1
+2439	F	25-29	clindamycin	35.3
+245B	M	30-34	doxycycline	9.26
+2579	F	55-59	clindamycin	19.450000000000003
+257E	M	75-79	well visit control	76.35
+25CF	F	55-59	well visit control	130
+268C	M	35-39	well visit control	21.3
+2711	M	35-39	well visit control	17.3
+272F	M	65-69	well visit control	21.5
+27ED	F	30-34	clindamycin	34.2
+2826	F	60-64	minocycline	45.785714285714285
+287F	F	70-74	well visit control	71.7
+2893	F	30-34	clindamycin	55.95
+2899	F	50-54	well visit control	27.2
+28BE	M	40-44	well visit control	21.6
+2946	F	<20	isotretinoin	19.1
+2988	F	30-34	isotretinoin	15.662
+2997	M	60-64	doxycycline	55.9
+29A9	M	≥80	well visit control	78.5
+29F4	F	45-49	well visit control	16.9
+29F9	M	25-29	doxycycline	99.3
+2BAC	F	35-39	well visit control	32.2
+2CE7	F	40-44	well visit control	27.799999999999997
+2D42	F	35-39	well visit control	42.9
+2DAE	F	40-44	well visit control	70.2
+2DB1	F	50-54	doxycycline	21.7
+2E6E	F	30-34	well visit control	29.7
+2E77	F	65-69	clindamycin	39.6
+2EAD	M	25-29	doxycycline	17
+2F01	M	45-49	clindamycin	27.75
+2F5E	F	75-79	well visit control	75.3
+2F69	M	35-39	doxycycline	16.3
+2FBA	F	25-29	well visit control	28.2
+2FC5	F	55-59	clindamycin	35.6
+2FFD	F	60-64	doxycycline	63.1
+308F	F	25-29	clindamycin	33.6
+3197	F	30-34	clindamycin	14.7

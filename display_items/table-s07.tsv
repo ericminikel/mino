@@ -1,0 +1,216 @@
+subject_id	query_type	sex	age_bin	drug	route	daily_dose	nfl	on	sample_date	days_since_start	days_since_end	new_zero	plot_day
+0143	inpt	F	70-74	minocycline	Oral		67.6	TRUE	3	3	-4	-1	4
+0143	inpt	F	70-74	minocycline	Oral		88.5	TRUE	4	4	-3	-1	5
+01AC	inpt	M	≥80	minocycline	Oral		153	FALSE	48	48	43	-1	49
+01AC	inpt	M	≥80	minocycline	Oral		23.1	FALSE	49	49	44	-1	50
+01AC	inpt	M	≥80	minocycline	Oral		150	FALSE	50	50	45	-1	51
+01AC	inpt	M	≥80	minocycline	Oral		188	FALSE	52	52	47	-1	53
+01AC	inpt	M	≥80	minocycline	Oral		195	FALSE	54	54	49	-1	55
+01AC	inpt	M	≥80	minocycline	Oral		206	FALSE	55	55	50	-1	56
+01AC	inpt	M	≥80	minocycline	Oral		196	FALSE	56	56	51	-1	57
+01AC	inpt	M	≥80	minocycline	Oral		210	FALSE	57	57	52	-1	58
+01AC	inpt	M	≥80	minocycline	Oral		235	FALSE	58	58	53	-1	59
+01AC	inpt	M	≥80	minocycline	Oral		228	FALSE	59	59	54	-1	60
+01AC	inpt	M	≥80	minocycline	Oral		236	FALSE	60	60	55	-1	61
+01AC	inpt	M	≥80	minocycline	Oral		260	FALSE	61	61	56	-1	62
+01AC	inpt	M	≥80	minocycline	Oral		281	FALSE	62	62	57	-1	63
+01AC	inpt	M	≥80	minocycline	Oral		256	FALSE	63	63	58	-1	64
+01AC	inpt	M	≥80	minocycline	Oral		331	FALSE	64	64	59	-1	65
+02FA	inpt	F	70-74	minocycline	Intravenous		1146	TRUE	88	63	-16	24	64
+02FA	inpt	F	70-74	minocycline	Intravenous		1134	TRUE	89	64	-15	24	65
+02FA	inpt	F	70-74	minocycline	Intravenous		1095	TRUE	90	65	-14	24	66
+02FA	inpt	F	70-74	minocycline	Intravenous		1014	TRUE	91	66	-13	24	67
+02FA	inpt	F	70-74	minocycline	Intravenous		1064	TRUE	92	67	-12	24	68
+02FA	inpt	F	70-74	minocycline	Intravenous		1083	TRUE	93	68	-11	24	69
+02FA	inpt	F	70-74	minocycline	Intravenous		1373	TRUE	96	71	-8	24	72
+02FA	inpt	F	70-74	minocycline	Intravenous		1363	TRUE	97	72	-7	24	73
+02FA	inpt	F	70-74	minocycline	Intravenous		1327	TRUE	98	73	-6	24	74
+02FA	inpt	F	70-74	minocycline	Intravenous		1368	TRUE	99	74	-5	24	75
+02FA	inpt	F	70-74	minocycline	Intravenous		1345	TRUE	100	75	-4	24	76
+02FA	inpt	F	70-74	minocycline	Intravenous		1275	TRUE	101	76	-3	24	77
+02FA	inpt	F	70-74	minocycline	Intravenous		117	TRUE	102	77	-2	24	78
+02FA	inpt	F	70-74	minocycline	Intravenous		6.39	TRUE	103	78	-1	24	79
+0AF5	inpt	F	30-34	minocycline	Oral	200	116	FALSE	0	-1	-33	0	0
+0AF5	inpt	F	30-34	minocycline	Oral	200	82.1	FALSE	1	0	-32	0	1
+0AF5	inpt	F	30-34	minocycline	Oral	200	83.4	TRUE	3	2	-30	0	3
+0AF5	inpt	F	30-34	minocycline	Oral	200	93.6	TRUE	4	3	-29	0	4
+0AF5	inpt	F	30-34	minocycline	Oral	200	67.6	TRUE	6	5	-27	0	6
+0AF5	inpt	F	30-34	minocycline	Oral	200	87.1	TRUE	13	12	-20	0	13
+0AF5	inpt	F	30-34	minocycline	Oral	200	99.2	TRUE	15	14	-18	0	15
+0AF5	inpt	F	30-34	minocycline	Oral	200	105	TRUE	17	16	-16	0	17
+0AF5	inpt	F	30-34	minocycline	Oral	200	98.4	TRUE	19	18	-14	0	19
+0AF5	inpt	F	30-34	minocycline	Oral	200	120	TRUE	21	20	-12	0	21
+0AF5	inpt	F	30-34	minocycline	Oral	200	221	TRUE	27	26	-6	0	27
+0AF5	inpt	F	30-34	minocycline	Oral	200	196	TRUE	29	28	-4	0	29
+0AF5	inpt	F	30-34	minocycline	Oral	200	179	TRUE	31	30	-2	0	31
+0AF5	inpt	F	30-34	minocycline	Oral	200	151	TRUE	33	32	0	0	33
+0AF5	inpt	F	30-34	minocycline	Oral	200	177	TRUE	37	36	4	0	37
+0AF5	inpt	F	30-34	minocycline	Oral	200	148	TRUE	39	38	6	0	39
+0AF5	inpt	F	30-34	minocycline	Oral	200	169	TRUE	40	39	7	0	40
+0CCC	inpt	F	45-49	minocycline	Oral		52.5	TRUE	222	14	0	207	15
+0E2E	inpt	M	40-44	minocycline	Oral		191	TRUE	116	3	-6	112	4
+0E2E	inpt	M	40-44	minocycline	Oral		197	TRUE	118	5	-4	112	6
+0E2E	inpt	M	40-44	minocycline	Oral		209	TRUE	119	6	-3	112	7
+0E2E	inpt	M	40-44	minocycline	Oral		212	TRUE	120	7	-2	112	8
+0E2E	inpt	M	40-44	minocycline	Oral		294	TRUE	122	9	0	112	10
+1055	inpt	F	≥80	minocycline	Intravenous		135	TRUE	20	9	-5	10	10
+1055	inpt	F	≥80	minocycline	Intravenous		111	TRUE	22	11	-3	10	12
+1055	inpt	F	≥80	minocycline	Intravenous		36	TRUE	23	12	-2	10	13
+1055	inpt	F	≥80	minocycline	Intravenous		118	TRUE	24	13	-1	10	14
+1055	inpt	F	≥80	minocycline	Intravenous		112	TRUE	25	14	0	10	15
+1055	inpt	F	≥80	minocycline	Intravenous		109	TRUE	26	15	1	10	16
+1055	inpt	F	≥80	minocycline	Intravenous		97	TRUE	27	16	2	10	17
+1055	inpt	F	≥80	minocycline	Intravenous		105	TRUE	28	17	3	10	18
+11FB	inpt	M	55-59	minocycline	Oral		33.4	FALSE	113	113	112	-1	114
+1361	inpt	M	40-44	minocycline	Intravenous		952	TRUE	64	41	-6	22	42
+1361	inpt	M	40-44	minocycline	Intravenous		1119	TRUE	65	42	-5	22	43
+1361	inpt	M	40-44	minocycline	Intravenous		1121	TRUE	66	43	-4	22	44
+1361	inpt	M	40-44	minocycline	Intravenous		887	TRUE	67	44	-3	22	45
+1361	inpt	M	40-44	minocycline	Intravenous		938	TRUE	68	45	-2	22	46
+1361	inpt	M	40-44	minocycline	Intravenous		813	TRUE	69	46	-1	22	47
+1361	inpt	M	40-44	minocycline	Intravenous		783	TRUE	71	48	1	22	49
+13C6	inpt	F	55-59	minocycline	Intravenous		1143	TRUE	223	1	-2	221	2
+13C6	inpt	F	55-59	minocycline	Intravenous		1582	TRUE	224	2	-1	221	3
+16AA	inpt	F	50-54	minocycline	Oral		70	TRUE	98	98	-2	-1	99
+16AA	inpt	F	50-54	minocycline	Oral		43.6	TRUE	99	99	-1	-1	100
+16AA	inpt	F	50-54	minocycline	Oral		43.3	TRUE	100	100	0	-1	101
+16BD	inpt	F	25-29	minocycline	Oral		45.8	TRUE	333	1	-20	331	2
+16BD	inpt	F	25-29	minocycline	Oral		32.4	TRUE	336	4	-17	331	5
+16BD	inpt	F	25-29	minocycline	Oral		39.4	TRUE	338	6	-15	331	7
+16BD	inpt	F	25-29	minocycline	Oral		36.7	TRUE	339	7	-14	331	8
+16BD	inpt	F	25-29	minocycline	Oral		43.6	TRUE	343	11	-10	331	12
+16BD	inpt	F	25-29	minocycline	Oral		41.3	TRUE	345	13	-8	331	14
+16BD	inpt	F	25-29	minocycline	Oral		37.7	TRUE	346	14	-7	331	15
+16BD	inpt	F	25-29	minocycline	Oral		42.5	TRUE	350	18	-3	331	19
+16BD	inpt	F	25-29	minocycline	Oral		47.2	TRUE	351	19	-2	331	20
+16BD	inpt	F	25-29	minocycline	Oral		61.6	TRUE	353	21	0	331	22
+16BD	inpt	F	25-29	minocycline	Oral		38.3	FALSE	432	100	79	331	101
+16BD	inpt	F	25-29	minocycline	Oral		42	FALSE	434	102	81	331	103
+16BD	inpt	F	25-29	minocycline	Oral		26.5	FALSE	437	105	84	331	106
+18D4	inpt	F	55-59	minocycline	Intravenous		34.2	FALSE	66	-64	-64	66	0
+18D4	inpt	F	55-59	minocycline	Intravenous		29.8	FALSE	67	-63	-63	66	1
+18D4	inpt	F	55-59	minocycline	Oral		25.4	TRUE	68	1	-3	66	2
+18D4	inpt	F	55-59	minocycline	Oral		31.4	TRUE	69	2	-2	66	3
+18D4	inpt	F	55-59	minocycline	Oral		35.7	TRUE	70	3	-1	66	4
+18D4	inpt	F	55-59	minocycline	Oral		26.4	TRUE	71	4	0	66	5
+18D4	inpt	F	55-59	minocycline	Oral		29.4	TRUE	72	5	1	66	6
+18D4	inpt	F	55-59	minocycline	Oral		30.5	TRUE	73	6	2	66	7
+18D4	inpt	F	55-59	minocycline	Oral		25.6	TRUE	75	8	4	66	9
+18D4	inpt	F	55-59	minocycline	Oral		29.8	TRUE	77	10	6	66	11
+18D4	inpt	F	55-59	minocycline	Oral		28	TRUE	78	11	7	66	12
+18D4	inpt	F	55-59	minocycline	Intravenous		31.9	FALSE	79	-51	-51	66	13
+18D4	inpt	F	55-59	minocycline	Intravenous		42.1	FALSE	80	-50	-50	66	14
+18D4	inpt	F	55-59	minocycline	Intravenous		27.7	FALSE	81	-49	-49	66	15
+18D4	inpt	F	60-64	minocycline	Oral	200	47	TRUE	114	30	-1	66	48
+18D4	inpt	F	60-64	minocycline	Oral	200	39.3	TRUE	116	32	1	66	50
+18D4	inpt	F	60-64	minocycline	Oral	200	43	TRUE	117	33	2	66	51
+18D4	inpt	F	60-64	minocycline	Oral	200	43	TRUE	118	34	3	66	52
+18D4	inpt	F	55-59	minocycline	Intravenous		23	FALSE	177	47	47	66	111
+18D4	inpt	F	55-59	minocycline	Intravenous		18.7	FALSE	193	63	63	66	127
+18D4	inpt	F	55-59	minocycline	Intravenous		17.8	FALSE	198	68	68	66	132
+18D4	inpt	F	55-59	minocycline	Intravenous		9.56	FALSE	208	78	78	66	142
+194A	inpt	M	55-59	minocycline	Oral	200	47.7	FALSE	0	0	-30	-1	1
+194A	inpt	M	55-59	minocycline	Oral	200	2663	TRUE	2	2	-28	-1	3
+194A	inpt	M	55-59	minocycline	Oral	200	68.2	TRUE	4	4	-26	-1	5
+194A	inpt	M	55-59	minocycline	Oral	200	93.5	TRUE	16	16	-14	-1	17
+194A	inpt	M	55-59	minocycline	Oral	200	83.2	TRUE	24	24	-6	-1	25
+194A	inpt	M	55-59	minocycline	Oral	200	70.6	TRUE	26	26	-4	-1	27
+194A	inpt	M	55-59	minocycline	Oral	200	56.2	TRUE	28	28	-2	-1	29
+194A	inpt	M	55-59	minocycline	Oral	200	70.3	TRUE	29	29	-1	-1	30
+1CD5	inpt	F	70-74	minocycline	Oral		140	FALSE	128	30	15	97	31
+1CD5	inpt	F	70-74	minocycline	Oral		131	FALSE	129	31	16	97	32
+1CD5	inpt	F	70-74	minocycline	Oral		114	FALSE	130	32	17	97	33
+1CD5	inpt	F	70-74	minocycline	Oral		133	FALSE	131	33	18	97	34
+1CD5	inpt	F	70-74	minocycline	Oral		120	FALSE	132	34	19	97	35
+1CD5	inpt	F	70-74	minocycline	Oral		122	FALSE	133	35	20	97	36
+1CD5	inpt	F	70-74	minocycline	Oral		125	FALSE	134	36	21	97	37
+1CD5	inpt	F	70-74	minocycline	Oral		114	FALSE	135	37	22	97	38
+1CD5	inpt	F	70-74	minocycline	Oral		118	FALSE	136	38	23	97	39
+1CD5	inpt	F	70-74	minocycline	Oral		119	FALSE	137	39	24	97	40
+1CD5	inpt	F	70-74	minocycline	Oral		102	FALSE	138	40	25	97	41
+1CD5	inpt	F	70-74	minocycline	Oral		98.4	FALSE	139	41	26	97	42
+1CD5	inpt	F	70-74	minocycline	Oral		120	FALSE	140	42	27	97	43
+1CD5	inpt	F	70-74	minocycline	Oral		100	FALSE	141	43	28	97	44
+1CD5	inpt	F	70-74	minocycline	Oral		81.6	FALSE	142	44	29	97	45
+1CD5	inpt	F	70-74	minocycline	Oral		92.7	FALSE	143	45	30	97	46
+1CD5	inpt	F	70-74	minocycline	Oral		129	FALSE	236	138	123	97	139
+1CD5	inpt	F	70-74	minocycline	Oral		126	FALSE	239	141	126	97	142
+1CD5	inpt	F	70-74	minocycline	Oral		141	FALSE	242	144	129	97	145
+1CD5	inpt	F	70-74	minocycline	Oral		144	FALSE	245	147	132	97	148
+1CD5	inpt	F	70-74	minocycline	Oral		107	FALSE	248	150	135	97	151
+1CD5	inpt	F	70-74	minocycline	Oral		200	FALSE	252	154	139	97	155
+1FFF	inpt	F	65-69	minocycline	Oral		1235	TRUE	12	12	-72	-1	13
+1FFF	inpt	F	65-69	minocycline	Oral		549	TRUE	14	14	-70	-1	15
+1FFF	inpt	F	65-69	minocycline	Oral		1021	TRUE	16	16	-68	-1	17
+1FFF	inpt	F	65-69	minocycline	Oral		873	TRUE	17	17	-67	-1	18
+1FFF	inpt	F	65-69	minocycline	Oral		1098	TRUE	19	19	-65	-1	20
+24DB	inpt	M	75-79	minocycline	Intravenous		2744	TRUE	28	4	-2	23	5
+24DB	inpt	M	75-79	minocycline	Intravenous		2556	TRUE	29	5	-1	23	6
+24DB	inpt	M	75-79	minocycline	Intravenous		2316	TRUE	30	6	0	23	7
+24DB	inpt	M	75-79	minocycline	Intravenous		2540	TRUE	31	7	1	23	8
+24DB	inpt	M	75-79	minocycline	Intravenous		2467	TRUE	32	8	2	23	9
+24DB	inpt	M	75-79	minocycline	Intravenous		2576	TRUE	33	9	3	23	10
+24DB	inpt	M	75-79	minocycline	Intravenous		2212	TRUE	34	10	4	23	11
+24DB	inpt	M	75-79	minocycline	Intravenous		2289	TRUE	35	11	5	23	12
+24DB	inpt	M	75-79	minocycline	Intravenous		2265	TRUE	36	12	6	23	13
+24DB	inpt	M	75-79	minocycline	Intravenous		2220	TRUE	37	13	7	23	14
+24DB	inpt	M	75-79	minocycline	Intravenous		828	FALSE	79	55	49	23	56
+24DB	inpt	M	75-79	minocycline	Intravenous		822	FALSE	81	57	51	23	58
+24DB	inpt	M	75-79	minocycline	Intravenous		808	FALSE	84	60	54	23	61
+24DB	inpt	M	75-79	minocycline	Intravenous		860	FALSE	88	64	58	23	65
+267E	inpt	M	70-74	minocycline	Oral		12	TRUE	52	10	-5	41	11
+267E	inpt	M	70-74	minocycline	Oral		134	TRUE	53	11	-4	41	12
+267E	inpt	M	70-74	minocycline	Oral		100	TRUE	54	12	-3	41	13
+267E	inpt	M	70-74	minocycline	Oral		83	TRUE	55	13	-2	41	14
+267E	inpt	M	70-74	minocycline	Oral		111	TRUE	56	14	-1	41	15
+267E	inpt	M	70-74	minocycline	Oral		142	TRUE	57	15	0	41	16
+267E	inpt	M	70-74	minocycline	Oral		145	TRUE	58	16	1	41	17
+267E	inpt	M	70-74	minocycline	Oral		102	TRUE	59	17	2	41	18
+267E	inpt	M	70-74	minocycline	Intravenous		5.4	TRUE	60	1	-4	41	19
+267E	inpt	M	70-74	minocycline	Intravenous		78	TRUE	61	2	-3	41	20
+267E	inpt	M	70-74	minocycline	Intravenous		77.2	TRUE	62	3	-2	41	21
+267E	inpt	M	70-74	minocycline	Intravenous		95.4	TRUE	63	4	-1	41	22
+267E	inpt	M	70-74	minocycline	Intravenous		109	TRUE	66	7	2	41	25
+267E	inpt	M	70-74	minocycline	Intravenous		90.1	TRUE	67	8	3	41	26
+267E	inpt	M	70-74	minocycline	Intravenous		102	TRUE	68	9	4	41	27
+267E	inpt	M	70-74	minocycline	Intravenous		97.2	TRUE	69	10	5	41	28
+267E	inpt	M	70-74	minocycline	Intravenous		107	TRUE	70	11	6	41	29
+267E	inpt	M	70-74	minocycline	Intravenous		99.4	TRUE	71	12	7	41	30
+267E	inpt	M	70-74	minocycline	Intravenous		93.5	FALSE	73	-2	-7	41	32
+267E	inpt	M	70-74	minocycline	Intravenous		93.2	FALSE	74	-1	-6	41	33
+267E	inpt	M	70-74	minocycline	Intravenous		108	FALSE	75	0	-5	41	34
+267E	inpt	M	70-74	minocycline	Intravenous		89.6	TRUE	76	1	-4	41	35
+267E	inpt	M	70-74	minocycline	Intravenous		72.9	TRUE	78	3	-2	41	37
+267E	inpt	M	70-74	minocycline	Intravenous		8.1	TRUE	79	4	-1	41	38
+267E	inpt	M	70-74	minocycline	Intravenous		88.5	TRUE	80	5	0	41	39
+267E	inpt	M	70-74	minocycline	Intravenous		100	TRUE	81	6	1	41	40
+267E	inpt	M	70-74	minocycline	Intravenous		65.4	TRUE	82	7	2	41	41
+267E	inpt	M	70-74	minocycline	Intravenous		64.9	TRUE	83	8	3	41	42
+267E	inpt	M	70-74	minocycline	Intravenous		45.1	TRUE	84	9	4	41	43
+267E	inpt	M	70-74	minocycline	Intravenous		67.9	TRUE	85	10	5	41	44
+267E	inpt	M	70-74	minocycline	Intravenous		70.6	TRUE	86	11	6	41	45
+267E	inpt	M	70-74	minocycline	Intravenous		95.8	TRUE	87	12	7	41	46
+267E	inpt	M	70-74	minocycline	Intravenous		87.9	FALSE	88	13	8	41	47
+267E	inpt	M	70-74	minocycline	Intravenous		92.9	FALSE	89	14	9	41	48
+267E	inpt	M	70-74	minocycline	Intravenous		98.9	FALSE	90	15	10	41	49
+267E	inpt	M	70-74	minocycline	Intravenous		86.2	FALSE	92	17	12	41	51
+267E	inpt	M	70-74	minocycline	Intravenous		79.1	FALSE	94	19	14	41	53
+267E	inpt	M	70-74	minocycline	Intravenous		71.6	FALSE	97	22	17	41	56
+267E	inpt	M	70-74	minocycline	Intravenous		65.8	FALSE	99	24	19	41	58
+267E	inpt	M	70-74	minocycline	Intravenous		72.8	FALSE	107	32	27	41	66
+267E	inpt	M	70-74	minocycline	Intravenous		55.2	FALSE	108	33	28	41	67
+267E	inpt	M	70-74	minocycline	Intravenous		76.1	FALSE	110	35	30	41	69
+267E	inpt	M	70-74	minocycline	Intravenous		137	FALSE	115	40	35	41	74
+267E	inpt	M	70-74	minocycline	Intravenous		98.9	FALSE	116	41	36	41	75
+267E	inpt	M	70-74	minocycline	Intravenous		108	FALSE	117	42	37	41	76
+267E	inpt	M	70-74	minocycline	Intravenous		107	FALSE	118	43	38	41	77
+267E	inpt	M	70-74	minocycline	Intravenous		93.7	FALSE	119	44	39	41	78
+267E	inpt	M	70-74	minocycline	Intravenous		115	FALSE	120	45	40	41	79
+267E	inpt	M	70-74	minocycline	Intravenous		109	FALSE	121	46	41	41	80
+2C07	inpt	F	65-69	minocycline	Oral		41.4	TRUE	214	96	-23	117	97
+2C07	inpt	F	65-69	minocycline	Oral		55.9	TRUE	244	126	7	117	127
+2C07	inpt	F	65-69	minocycline	Oral	200	57.9	FALSE	246	-4	-56	117	129
+2C07	inpt	F	65-69	minocycline	Oral	200	80.1	FALSE	248	-2	-54	117	131
+2C07	inpt	F	65-69	minocycline	Oral	200	125	FALSE	250	0	-52	117	133
+2E53	inpt	M	45-49	minocycline	Intravenous		812	TRUE	5	5	-1	-1	6
+2E53	inpt	M	45-49	minocycline	Intravenous		867	TRUE	6	6	0	-1	7

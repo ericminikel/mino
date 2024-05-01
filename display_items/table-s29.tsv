@@ -1,0 +1,73 @@
+plate	treatment	id	day	nfl	fold_change
+24-well-plate	control	7	0	99.6	1
+24-well-plate	control	7	2	65.1	0.6536144578313253
+24-well-plate	control	7	4	54.1	0.5431726907630523
+24-well-plate	control	7	6	47.4	0.47590361445783136
+24-well-plate	control	7	8	52.3	0.5251004016064257
+24-well-plate	control	7	10	40.3	0.4046184738955823
+24-well-plate	control	8	0	98.5	1
+24-well-plate	control	8	2	68.3	0.6934010152284263
+24-well-plate	control	8	4	57.3	0.581725888324873
+24-well-plate	control	8	6	48.4	0.4913705583756345
+24-well-plate	control	8	8	49	0.49746192893401014
+24-well-plate	control	8	10	39.6	0.4020304568527919
+24-well-plate	control	9	0	77.6	1
+24-well-plate	control	9	2	62.4	0.8041237113402062
+24-well-plate	control	9	4	55.4	0.7139175257731959
+24-well-plate	control	9	6	54.9	0.7074742268041238
+24-well-plate	control	9	8	76.4	0.984536082474227
+24-well-plate	control	9	10	53.6	0.6907216494845362
+24-well-plate	minocycline 25 µM	10	0	75.1	1
+24-well-plate	minocycline 25 µM	10	2	43.6	0.5805592543275633
+24-well-plate	minocycline 25 µM	10	4	48.7	0.648468708388815
+24-well-plate	minocycline 25 µM	10	6	118.8	1.581890812250333
+24-well-plate	minocycline 25 µM	10	8	306.5	4.081225033288948
+24-well-plate	minocycline 25 µM	10	10	250.4	3.3342210386151803
+24-well-plate	minocycline 25 µM	11	0	73	1
+24-well-plate	minocycline 25 µM	11	2	32.9	0.4506849315068493
+24-well-plate	minocycline 25 µM	11	4	37.7	0.5164383561643836
+24-well-plate	minocycline 25 µM	11	6	76.6	1.0493150684931507
+24-well-plate	minocycline 25 µM	11	8	166.6	2.282191780821918
+24-well-plate	minocycline 25 µM	11	10	134.7	1.8452054794520547
+24-well-plate	minocycline 25 µM	12	0	83.8	1
+24-well-plate	minocycline 25 µM	12	2	76.2	0.9093078758949882
+24-well-plate	minocycline 25 µM	12	4	87.1	1.039379474940334
+24-well-plate	minocycline 25 µM	12	6	186	2.2195704057279237
+24-well-plate	minocycline 25 µM	12	8	362.5	4.325775656324582
+24-well-plate	minocycline 25 µM	12	10	420.6	5.01909307875895
+Ibidi-slide	control	1	0	863	1
+Ibidi-slide	control	1	2	1412.2	1.6363847045191193
+Ibidi-slide	control	1	4	895.8	1.0380069524913094
+Ibidi-slide	control	1	6	1328.2	1.5390498261877172
+Ibidi-slide	control	1	8	1147.9	1.3301274623406723
+Ibidi-slide	control	1	10	1609.1	1.864542294322132
+Ibidi-slide	control	2	0	808.3	1
+Ibidi-slide	control	2	2	1431.3	1.770753433131263
+Ibidi-slide	control	2	4	1010.2	1.2497834962266487
+Ibidi-slide	control	2	6	1509.6	1.8676234071508104
+Ibidi-slide	control	2	8	945.9	1.1702338240752197
+Ibidi-slide	control	2	10	1310.4	1.6211802548558705
+Ibidi-slide	control	3	0	882.5	1
+Ibidi-slide	control	3	2	1641	1.8594900849858358
+Ibidi-slide	control	3	4	837.5	0.9490084985835694
+Ibidi-slide	control	3	6	1543.4	1.7488951841359774
+Ibidi-slide	control	3	8	1193.5	1.3524079320113314
+Ibidi-slide	control	3	10	1531.3	1.735184135977337
+Ibidi-slide	minocycline 25 µM	5	0	828.8	1
+Ibidi-slide	minocycline 25 µM	5	2	1858.4	2.2422779922779923
+Ibidi-slide	minocycline 25 µM	5	4	1421.9	1.7156129343629345
+Ibidi-slide	minocycline 25 µM	5	6	2462.7	2.97140444015444
+Ibidi-slide	minocycline 25 µM	5	8	1543.1	1.8618484555984556
+Ibidi-slide	minocycline 25 µM	5	10	2048.7	2.4718870656370657
+Ibidi-slide	minocycline 25 µM	6	0	998.2	1
+Ibidi-slide	minocycline 25 µM	6	2	1836.4	1.8397114806651973
+Ibidi-slide	minocycline 25 µM	6	4	1455.9	1.4585253456221199
+Ibidi-slide	minocycline 25 µM	6	6	1843.5	1.8468242837106792
+Ibidi-slide	minocycline 25 µM	6	8	1502.4	1.5051091965537968
+Ibidi-slide	minocycline 25 µM	6	10	1963.3	1.9668403125626126
+Ibidi-slide	minocycline 25 µM	7	0	770.8	1
+Ibidi-slide	minocycline 25 µM	7	2	1613.8	2.0936689154125583
+Ibidi-slide	minocycline 25 µM	7	4	1294.1	1.6789050337311884
+Ibidi-slide	minocycline 25 µM	7	6	2003.6	2.5993772703684486
+Ibidi-slide	minocycline 25 µM	7	8	1497.8	1.9431759211209134
+Ibidi-slide	minocycline 25 µM	7	10	2375.2	3.0814737934613388

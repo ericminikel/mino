@@ -1,0 +1,5 @@
+study	site	study_id	n_per_arm	sex	background	age_weeks	dose	roa	control_treatment	days_of_treatment	mean_cv.x	fold_change.x	mean_cv.y	fold_change.y
+1	Charles River	EF-0047-DA-ME	16	mixed	C57BL/6N	12	50 mg/kg	i.p.	no injection	6	60%	4	0.6000213537725617	3.9835526315789473
+2	Charles River	EF-0048-DA-ME	6/12	female	C57BL/6N	8	50 mg/kg	i.p.	saline	6	35%	1.3	0.35069686929987187	1.332579185520362
+3	Broad Institute	CMR-1982	8	mixed	C57BL/6N	20	50 mg/kg	i.p.	no injection	5	45%	1.3	0.4485397880728884	1.2976406533575318
+4	Broad Institute	CMR-2535	20	female	C57BL/6N	12	50 mg/kg	i.p.	mock (needle stick)	5	41%	2.6	0.41349398230921797	2.5806451612903225

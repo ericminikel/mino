@@ -1,0 +1,81 @@
+animal	cage	number	tag	cc	sex	dob	tx	dose_mg/kg	vol. of stock  (5mg/mL)	plan_harvest_date	brain_left	brain_right	exp_comments_2023-06-12	exp_comments_2023-06-13	exp_comments_2023-06-14	exp_comments_2023-06-15	exp_comments_2023-06-16	exp_comments_2023-06-17	exp_comments_2023-06-18	exp_comments_2023-06-19	exp_comments_2023-06-20	exp_comments_2023-06-21	bleed1_date	bleed1_comments	bleed2_date	bleed2_comments
+116322.1	116322	1			F	2023-03-19	mock stick		0.19	2023-06-16	frozen - TLC	frozen-TLC 	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116322.2	116322	2			F	2023-03-19	mock stick		0.22	2023-06-16	frozen - JEG	frozen-JEG 	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116322.3	116322	3			F	2023-03-19	mock stick		0.24	2023-06-16	frozen -JEG 	frozen-JEG 	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116322.4	116322	4			F	2023-03-19	mock stick		0.23	2023-06-16			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16	67 uL		
+116322.5	116322	5			F	2023-03-19	mock stick		0.21	2023-06-16			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116323.1	116323	1			F	2023-03-19	mock stick		0.23	2023-06-16	frozen-TLC	frozen-TLC 	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16	52 uL		
+116323.2	116323	2			F	2023-03-19	mock stick		0.20	2023-06-16	frozen-JEG	frozen-JEG 	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116323.3	116323	3			F	2023-03-19	mock stick		0.22	2023-06-16			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16	68 uL		
+116323.4	116323	4			F	2023-03-19	mock stick		0.21	2023-06-16			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16	74 uL		
+116323.5	116323	5			F	2023-03-19	mock stick		0.21	2023-06-16			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16	64 uL		
+116324.1	116324	1			F	2023-03-19	mock stick		0.20	2023-06-16	frozen-TLC 	frozen-TLC 	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116324.2	116324	2			F	2023-03-19	mock stick		0.21	2023-06-16	frozen-JEG 	frozen-JEG 	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16	72 uL		
+116324.3	116324	3			F	2023-03-19	mock stick		0.21	2023-06-16			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16	53 uL		
+116324.4	116324	4			F	2023-03-19	mock stick		0.22	2023-06-16			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16	60 uL		
+116324.5	116324	5			F	2023-03-19	mock stick		0.22	2023-06-16			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16	64 uL		
+116325.1	116325	1			F	2023-03-19	mock stick		0.20	2023-06-16	frozen - TLC	frozen-TLC 	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116325.2	116325	2			F	2023-03-19	mock stick		0.21	2023-06-16	frozen - JEG	frozen-JEG 	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116325.3	116325	3			F	2023-03-19	mock stick		0.21	2023-06-16			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16	53 uL		
+116325.4	116325	4			F	2023-03-19	mock stick		0.22	2023-06-16			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16	40 uL		
+116325.5	116325	5			F	2023-03-19	mock stick		0.21	2023-06-16			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116326.1	116326	1			F	2023-03-19	mino	50	0.21	2023-06-16	frozen - TLC	frozen-TLC 	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116326.2	116326	2			F	2023-03-19	mino	50	0.20	2023-06-16	frozen - JEG	frozen-JEG 	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116326.3	116326	3			F	2023-03-19	mino	50	0.22	2023-06-16	frozen - JEG	frozen-JEG 	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116326.4	116326	4			F	2023-03-19	mino	50	0.20	2023-06-16			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116326.5	116326	5			F	2023-03-19	mino	50	0.21	2023-06-16			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116327.1	116327	1			F	2023-03-19	mino	50	0.20	2023-06-16	frozen - TLC	frozen-TLC 	JEG, frozen after injection, altered breathing	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116327.2	116327	2			F	2023-03-19	mino	50	0.23	2023-06-16	frozen - JEG	frozen-JEG 	JEG, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116327.3	116327	3			F	2023-03-19	mino	50	0.20	2023-06-16			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116327.4	116327	4			F	2023-03-19	mino	50	0.20	2023-06-16			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116327.5	116327	5			F	2023-03-19	mino	50	0.22	2023-06-16			JEG, altered breathing after injection	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116328.1	116328	1			F	2023-03-19	mino	50	0.23	2023-06-16	frozen - TLC	frozen-TLC 	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116328.2	116328	2			F	2023-03-19	mino	50	0.21	2023-06-16	frozen - JEG	frozen-JEG 	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116328.3	116328	3			F	2023-03-19	mino	50	0.22	2023-06-16			JEG, small bit of injection dripped out	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116328.4	116328	4			F	2023-03-19	mino	50	0.22	2023-06-16			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116328.5	116328	5			F	2023-03-19	mino	50	0.21	2023-06-16			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left						2023-06-16			
+116329.1	116329	1			F	2023-03-19	mino	50	0.22	2023-06-16	frozen - TLC	frozen-TLC 	JEG, left	TLC, right	JEG, left, kicked out syringe at end of dose	TLC, right	JEG, left						2023-06-16			
+116329.2	116329	2			F	2023-03-19	mino	50	0.22	2023-06-16	frozen -JEG	frozen-JEG 	JEG, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116329.3	116329	3			F	2023-03-19	mino	50	0.21	2023-06-16			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116329.4	116329	4			F	2023-03-19	mino	50	0.21	2023-06-16			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left						2023-06-16			
+116329.5	116329	5			F	2023-03-19	mino	50	0.21	2023-06-16			JEG, left	TLC, right	head stuck in grate fd 20230614	TLC, right	JEG, left						2023-06-16			
+116330.1	116330	1			F	2023-03-19	mock stick		0.20	2023-06-21	frozen	frozen	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left	right			2023-06-21	26
+116330.2	116330	2			F	2023-03-19	mock stick		0.22	2023-06-21	frozen	frozen	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	37
+116330.3	116330	3			F	2023-03-19	mock stick		0.18	2023-06-21	frozen	frozen	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	39
+116330.4	116330	4			F	2023-03-19	mock stick		0.20	2023-06-21			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	35
+116330.5	116330	5			F	2023-03-19	mock stick		0.20	2023-06-21			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	40
+116331.1	116331	1			F	2023-03-19	mock stick		0.19	2023-06-21	frozen	frozen	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	51
+116331.2	116331	2			F	2023-03-19	mock stick		0.19	2023-06-21	frozen	frozen	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	34
+116331.3	116331	3			F	2023-03-19	mock stick		0.20	2023-06-21			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116331.4	116331	4			F	2023-03-19	mock stick		0.23	2023-06-21			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	51
+116331.5	116331	5			F	2023-03-19	mock stick		0.21	2023-06-21			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	64
+116332.1	116332	1			F	2023-03-19	mock stick		0.18	2023-06-21	frozen	frozen	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	52
+116332.2	116332	2			F	2023-03-19	mock stick		0.19	2023-06-21	frozen	frozen	TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	41
+116332.3	116332	3			F	2023-03-19	mock stick		0.23	2023-06-21			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	46
+116332.4	116332	4			F	2023-03-19	mock stick		0.20	2023-06-21			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	58
+116332.5	116332	5			F	2023-03-19	mock stick		0.20	2023-06-21			TLC, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	48
+116333.1	116333	1			F	2023-03-19	mock stick		0.19	2023-06-21	frozen	frozen	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	61
+116333.2	116333	2			F	2023-03-19	mock stick		0.20	2023-06-21	frozen	frozen	TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	52
+116333.3	116333	3			F	2023-03-19	mock stick		0.22	2023-06-21			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	59
+116333.4	116333	4			F	2023-03-19	mock stick		0.20	2023-06-21			TLC, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	36
+116333.5	116333	5			F	2023-03-19	mock stick		0.20	2023-06-21			TLC, Left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116334.1	116334	1			F	2023-03-19	mino	50	0.21	2023-06-21	frozen	frozen	JEG, left, tongue sticking out	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left	TLC, right			2023-06-21	
+116334.2	116334	2			F	2023-03-19	mino	50	0.22	2023-06-21	frozen	frozen	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left	TLC, right			2023-06-21	
+116334.3	116334	3			F	2023-03-19	mino	50	0.21	2023-06-21	frozen	frozen	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left	TLC, right			2023-06-21	
+116334.4	116334	4			F	2023-03-19	mino	50	0.20	2023-06-21			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left	TLC, right			2023-06-21	
+116334.5	116334	5			F	2023-03-19	mino	50	0.24	2023-06-21			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left	TLC, right			2023-06-21	
+116335.1	116335	1			F	2023-03-19	mino	50	0.21	2023-06-21	frozen	frozen	JEG, left, frozen after injection	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left	JEG, right			2023-06-21	66
+116335.2	116335	2			F	2023-03-19	mino	50	0.20	2023-06-21	frozen	frozen	JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left	JEG, right			2023-06-21	65
+116335.3	116335	3			F	2023-03-19	mino	50	0.20	2023-06-21			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left	JEG, right 			2023-06-21	72
+116335.4	116335	4			F	2023-03-19	mino	50	0.20	2023-06-21			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left	JEG, right - dripped out			2023-06-21	
+116335.5	116335	5			F	2023-03-19	mino	50	0.20	2023-06-21			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left	JEG, right			2023-06-21	
+116336.1	116336	1			F	2023-03-19	mino	50	0.20	2023-06-21	frozen	frozen	JEG, left	JEG, right	TLC, left, kicked syringe and a little dripped out	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116336.2	116336	2			F	2023-03-19	mino	50	0.23	2023-06-21	frozen	frozen	JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116336.3	116336	3			F	2023-03-19	mino	50	0.20	2023-06-21			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116336.4	116336	4			F	2023-03-19	mino	50	0.20	2023-06-21			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116336.5	116336	5			F	2023-03-19	mino	50	0.21	2023-06-21			JEG, left	JEG, right	TLC, left	JEG, right	TLC, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116337.1	116337	1			F	2023-03-19	mino	50	0.20	2023-06-21	frozen	frozen	JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left	JEG, right - dripped out			2023-06-21	
+116337.2	116337	2			F	2023-03-19	mino	50	0.20	2023-06-21	frozen	frozen	JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116337.3	116337	3			F	2023-03-19	mino	50	0.20	2023-06-21			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116337.4	116337	4			F	2023-03-19	mino	50	0.23	2023-06-21			JEG, left	TLC, right	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	
+116337.5	116337	5			F	2023-03-19	mino	50	0.21	2023-06-21			JEG, left	TLC, right, a little bit of the end of the dose dripped out	JEG, left	TLC, right	JEG, left	TLC, right	TLC, left	JEG, right	JEG, left				2023-06-21	

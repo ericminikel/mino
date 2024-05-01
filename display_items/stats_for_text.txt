@@ -1,0 +1,20 @@
+Last updated: 2024-05-01
+
+Linear model predicted baseline NfL at age 18: 16.7
+
+
+Partially paired Wilcoxon for inpatients on/off minocycline: P = 0.059
+
+
+Difference between mock vs. minocycline NfL in mouse treatment study 4, day 5 timepoint: 1.6e-07
+
+
+Mean weight change by day 5 in mouse treatment study 4: mock +2.4% vs. mino -0.5%, P = 4.4e-05
+
+
+Change in NfL among mock treated animals over 14 days "washout" in mouse treatment study 4: P = 0.016, Wilcoxon test.
+
+
+Change in NfL among minocycline treated animals over 14 days washout in mouse treatment study 4: P = 9.3e-05, Wilcoxon test.
+
+

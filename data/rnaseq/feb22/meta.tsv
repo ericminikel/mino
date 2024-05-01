@@ -1,0 +1,16 @@
+full_id	sample_id	sex	hours	treatment
+RP-2586_MP-1-384_left-cx_v1_RNA_OnPrem	MP-1	M	384	saline
+RP-2586_MP-18-312_left-cx_v1_RNA_OnPrem	MP-18	M	312	minocycline
+RP-2586_MP-19-384_left-cx_v1_RNA_OnPrem	MP-19	M	384	minocycline
+RP-2586_MP-2-384_left-cx_v2_RNA_OnPrem	MP-2	M	384	saline
+RP-2586_MP-20-384_left-cx_v1_RNA_OnPrem	MP-20	M	384	minocycline
+RP-2586_MP-21-384_left-cx_v1_RNA_OnPrem	MP-21	F	384	minocycline
+RP-2586_MP-22-312_left-cx_v1_RNA_OnPrem	MP-22	F	312	minocycline
+RP-2586_MP-23-312_left-cx_v1_RNA_OnPrem	MP-23	F	312	minocycline
+RP-2586_MP-24-384_left-cx_v1_RNA_OnPrem	MP-24	F	384	minocycline
+RP-2586_MP-3-384_left-cx_v2_RNA_OnPrem	MP-3	M	384	saline
+RP-2586_MP-4-384_left-cx_v1_RNA_OnPrem	MP-4	M	384	saline
+RP-2586_MP-5-384_left-cx_v1_RNA_OnPrem	MP-5	F	384	saline
+RP-2586_MP-6-384_left-cx_v1_RNA_OnPrem	MP-6	F	384	saline
+RP-2586_MP-7-384_left-cx_v1_RNA_OnPrem	MP-7	F	384	saline
+RP-2586_MP-8-384_left-cx_v1_RNA_OnPrem	MP-8	F	384	saline

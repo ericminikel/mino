@@ -1,0 +1,5 @@
+disp	tx	day	cohort	x	color	pch
+predose	none	0	predose-0	0	#A9A9E2	1
+predose	mino	0	predose-0	0	#A9A9E2	1
+none	none	5	none-5	4	#7C7C7C	19
+mino	mino	5	mino-5	6	#E7298A	19
